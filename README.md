@@ -42,13 +42,13 @@ In my case, I chose the first option and printed it entirely in PETG.
    - Cut the fan wires and remove the insulation at the ends.
    - Take the original fan connector and cut its wires ~2-3 cm from the connector.
 
-   ![Fans Preparation](./pictures/1.jpg)
+   ![Fans Preparation](./pictures/1.jpg){width=60%}
 
 3. **Twist and Prepare Connections:**  
    - Twist the exposed ends of the fan wires by polarity: **red with red**, **black with black**.  
    - Slide heat shrink tubing over the wires, ensuring it’s long enough to cover the solder joints.
 
-   ![Solder Preparation](./pictures/2.jpg)
+   ![Solder Preparation](./pictures/2.jpg){width=60%}
 
 4. **Extend the Wires:**  
    - Cut **2 additional wire pieces** (~10 cm each).  
@@ -65,7 +65,7 @@ In my case, I chose the first option and printed it entirely in PETG.
 6. **Insulate the Connections:**  
    - Slide the heat shrink tubing over the solder joints and shrink it using a lighter, heat gun, or soldering iron.
 
-   ![Soldering Complete](./pictures/3.jpg)
+   ![Soldering Complete](./pictures/3.jpg){width=60%}
 
 ---
 
