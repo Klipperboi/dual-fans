@@ -1,7 +1,7 @@
 # Ender 3 V3 SE Dual Fans Upgrade
 
 ## What You Need:
-- **Soldering iron** (with tin and flux)
+- **Soldering iron** (with tin, flux, silicone mat and all the other stuff)
 - **Wire cutters**
 - **Heat shrink tubing**
 - **Additional wire**
