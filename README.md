@@ -23,3 +23,5 @@ In my case, i chose the 1st one, and printed it fully in PETG. Keep in mind that
 ## Step 2: prepare the fans
 
 Take your fans, and find the polarity. Usually, the red wire is + and the black one is -. 
+![see](./pictures/1.jpg)
+
