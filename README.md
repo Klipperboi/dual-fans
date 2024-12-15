@@ -1,7 +1,3 @@
-This looks great so far! Here's a polished, Markdown-ready version with improved clarity and formatting. I made minor grammar and consistency tweaks for a smooth flow. Let me know if you'd like further refinements.
-
----
-
 # Ender 3 V3 SE Dual Fans Upgrade
 
 ## What You Need:
