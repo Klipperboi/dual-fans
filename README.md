@@ -5,6 +5,7 @@
 - **Wire cutters**
 - **Heat shrink tubing**
 - **Additional wire**
+- **Lighter**
 - **Screws/nuts/fans** (check with the BOM of the shroud you are using)
    - **2x 4010 blower fans (24V)**
    - Optional: **4010 fan for heatsink** (in my case)
