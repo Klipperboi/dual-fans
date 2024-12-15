@@ -5,9 +5,9 @@
 - **Wire cutters**
 - **Heat shrink tubing**
 - **Additional wire**
-- **2x 4010 blower fans (24V)**
-- Optional: **4010 fan for heatsink**
-- **Screws/nuts** (check with the BOM of the shroud you are using)
+- **Screws/nuts/fans** (check with the BOM of the shroud you are using)
+   - **2x 4010 blower fans (24V)**
+   - Optional: **4010 fan for heatsink** (in my case)
 
 ---
 
@@ -104,3 +104,5 @@ In my case, I chose the first option and printed it entirely in PETG.
 ### **Happy Printing! 🥳**
 
 Now that the upgrade is complete, enjoy improved cooling performance for your prints!
+
+If you did find this helpful, I am always [here](https://buymeacoffee.com/argatuioan) ;)
