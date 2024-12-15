@@ -43,7 +43,7 @@ In my case, I chose the first option and printed it entirely in PETG.
    - Cut the fan wires and remove the insulation at the ends.
    - Take the original fan connector and cut its wires ~2-3 cm from the connector.
 
-   ![Fans Preparation](./pictures/1.jpg){width=60%}
+   ![Fans Preparation](./pictures/1.jpg){ width=60% }
 
 3. **Twist and Prepare Connections:**  
    - Twist the exposed ends of the fan wires by polarity: **red with red**, **black with black**.  
