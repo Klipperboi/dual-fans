@@ -7,7 +7,7 @@ What you need:
   - optional 4010 fan for heatsink
   - screws/nuts (check with the BOM of the shroud you are using)
 
-**Step 1: print the shroud**
+# Step 1: print the shroud
 
 There are many dual 4010 fans shrouds for the V3 SE, and here are the ones I recommend:
   - https://www.printables.com/model/910918-ender3-v3-seke-dual-4010-blower-shroud-for-k1-hote
