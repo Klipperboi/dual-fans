@@ -19,3 +19,7 @@ There are many dual 4010 fans shrouds for the V3 SE, and here are the ones I rec
 Choose one and print it. Usually you want to print at least the ducts in a material that has a higher melting temperature than the material that you usually print with. For example, if you mostly print PLA, you could use PETG ducts. If you print mostly PETG, you could do the ducts in ABS/ASA (careful at health concerns). Keep in mind that the ducts will probably deform over time.
 
 In my case, i chose the 1st one, and printed it fully in PETG. Keep in mind that this process is applicable to any shroud, fans or printer.
+
+## Step 2: prepare the fans
+
+Take your fans, and find the polarity. Usually, the red wire is + and the black one is -. 
