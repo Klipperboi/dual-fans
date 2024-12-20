@@ -60,7 +60,7 @@ In my case, I chose the first option and printed it entirely in PETG.
 5. **Attach the Connector:**  
    - Solder the original fan connector to the ends of the extended wires.  
    - **Double-check your work:**
-      - Tug the wires gently to ensure they hold.
+      - Tug the wires (don't be gentle, you want them to come apart now, not later) to ensure they hold.
       - Use a multimeter to check for continuity and ensure no shorts.
 
 6. **Insulate the Connections:**  
