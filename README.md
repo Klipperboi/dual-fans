@@ -100,7 +100,7 @@ In my case, I chose the first option and printed it entirely in PETG.
 1. Mount the fans into the printed shroud using screws and nuts as specified in the BOM.  
 2. Attach the assembled shroud to the printer.
 
-![Shroud](./pictures/shroud.jpg) 
+![Shroud](pictures/shroud.png) 
 
 ---
 
