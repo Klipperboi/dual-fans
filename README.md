@@ -16,10 +16,10 @@
 
 There are many dual 4010 fan shrouds for the Ender 3 V3 SE. Here are some recommended options:
 
+- [Slim Ender 3 V3 SE Dual 4010 Shroud (K1 Edition)](https://www.printables.com/model/818919-slim-ender-3-v3-se-dual-4010-shroud-k1-edition)
 - [Ender3 V3 SE/KE Dual 4010 Blower Shroud (K1 Hotend)](https://www.printables.com/model/910918-ender3-v3-seke-dual-4010-blower-shroud-for-k1-hote)
 - [Ender 3 V3 SE Dual 4010 Shroud](https://www.printables.com/model/619049-ender-3-v3-se-dual-4010-shroud)
 - [Ender 3 V3 SE Dual 4010 Shroud (K1 Edition)](https://www.printables.com/model/776177-ender-3-v3-se-dual-4010-shroud-k1-edition)
-- [Slim Ender 3 V3 SE Dual 4010 Shroud (K1 Edition)](https://www.printables.com/model/818919-slim-ender-3-v3-se-dual-4010-shroud-k1-edition)
 - [Ender3 V3 SE Dual 4010 Shroud for K1/KE Hotend](https://www.printables.com/model/809391-ender3-v3-se-dual-4010-shroud-for-k1ke-hotend)
 
 Choose one and print it. 
