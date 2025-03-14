@@ -31,6 +31,10 @@ Choose one and print it.
 
 In my case, I chose the first option and printed it entirely in PETG.
 
+## Adjust the position of the bltouch
+
+Check the description of the shroud you chose, and modify the position of the bltouch, if needed.
+
 ---
 
 ## Step 2: Prepare the Fans
